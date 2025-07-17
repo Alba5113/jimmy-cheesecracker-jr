@@ -34,4 +34,4 @@ async def on_message(message):
     else:
         await message.reply(message)
 
-client.run('MTM5NTMxMTc1NDgzMzMwMTUwNA.GKTWID.croUk7zDD52YI32gKgzezV3ZVZABzk0K7f43nA')
+client.run('token')
